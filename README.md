@@ -6,7 +6,7 @@
 I'm a Software Architect specializing in Java/J2EE. I'm passionate about building scalable software, optimizing performance, and creating intuitive user experiences.
 
 ## 🔧 Technologies & Tools
-![Java](https://img.shields.io/badge/-Java-3776AB?logo=java&logoColor=fff)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
